@@ -10,3 +10,4 @@ Steps:
 Features currently missing:
 1: Ground combat. You will be notified you are being boarded and nothing else as of now
 2: Cloaking Module. You can buy it but it won't do anything.
+3: Miyoshi Shop, if you're lucky enough to get one.
